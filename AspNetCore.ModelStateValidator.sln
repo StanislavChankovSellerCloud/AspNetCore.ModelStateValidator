@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{54EF4A13-6EF4-4762-B0D4-314EC84B91B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.ModelStateValidator.WebApi", "src\AspNetCore.ModelStateValidator.WebApi\AspNetCore.ModelStateValidator.WebApi.csproj", "{B3C3E95C-CE71-4419-A5EF-988E1E321189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C3E95C-CE71-4419-A5EF-988E1E321189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C3E95C-CE71-4419-A5EF-988E1E321189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C3E95C-CE71-4419-A5EF-988E1E321189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C3E95C-CE71-4419-A5EF-988E1E321189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3C3E95C-CE71-4419-A5EF-988E1E321189} = {54EF4A13-6EF4-4762-B0D4-314EC84B91B1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F7292C-FD9E-4C79-AC7B-8499A145CC44}
+	EndGlobalSection
+EndGlobal
